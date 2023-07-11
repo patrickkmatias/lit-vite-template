@@ -5,7 +5,8 @@
   "author": "pmattheew",
   "license": "ISC",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "lit": "^2.7.6"
